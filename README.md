@@ -7,5 +7,5 @@ school={
 };
 document.write("school name is :"+ school.name);
 document.write("<br>");
-document.write("school location is :"+ school.Location);
+
   
